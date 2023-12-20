@@ -1,1 +1,2 @@
 # JavaTwitterTrends
+This program is written in java and analyzes tweets and presents analysis results to users. This analysis will be driven by two classes that work in tandem to read in tweets, store a collection of them, analyze them, and present the analysis to the user
